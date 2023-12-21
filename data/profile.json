@@ -48,13 +48,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex com JS",
+      "url": "https://github.com/wastenio/PokeDex-Com-JS.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Crud com C#",
+      "url": "https://github.com/wastenio/Criando-API-Com-Crud.git",
+      "github": true
+    },
+    {
+      "name": "Criando um Sistema em C# com POO",
+      "url": "https://github.com/wastenio/Criando-um-Sis-e-Abst-um-Cel-com-POO-em-C-.git",
       "github": true
     }
   ],
